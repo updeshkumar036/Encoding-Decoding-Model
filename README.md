@@ -1,6 +1,6 @@
 # Encoding-Decoding-Model
 What is Cryptography?
--It is associated with the process of cob=nverting ordinary plain text into unintelligible text and vice-versa.It is a method of storing and transmitting data in a particular form so that only those for whom it is intended can read and process it.
+-It is associated with the process of converting ordinary plain text into unintelligible text and vice-versa.It is a method of storing and transmitting data in a particular form so that only those for whom it is intended can read and process it.
 Related Terms:
 PlainText: it is the data to be protected during transmission.
 Encryption Algorithm: it is a mathematical process that produces a ciphertext for any given plaintext and encryption key.it is a cryptographic algorithm that takes plaintext and an encryption key as input and produces a ciphertext.
